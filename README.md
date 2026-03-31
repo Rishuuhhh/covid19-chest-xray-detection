@@ -1,3 +1,4 @@
+![Project Demo](https://via.placeholder.com/800x400.png?text=COVID+X-Ray+Detection)
 # COVID-19 Chest X-ray Detection (DenseNet121)
 
 This project trains a transfer-learning model for chest X-ray image classification using a pretrained DenseNet121 backbone (ImageNet weights).
